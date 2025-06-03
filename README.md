@@ -2,7 +2,7 @@
 
 ## Español:
 
-**¡Bienvenido!** Este repositorio contiene las soluciones que he creado para todos los problemas dados (en mi semestre) en la asignatura "*Taller de programación orientada a objetos*" de la UDO (*Universidad de Oriente*).
+**¡Bienvenido!** Este repositorio contiene las soluciones que he creado para todos los problemas dados (en mi semestre) en la asignatura *Taller de programación orientada a objetos* de la UDO (*Universidad de Oriente*) en la carrera de *Ingeniería en Computación*.
 
 Esta asignatura consiste en una evaluación semanal en la que cada estudiante deberá resolver un problema propuesto por el profesor de manera online. Las soluciones deben implementarse en **C++** utilizando [Turbo C++](https://turbo-c.net/) o [Dev-C++](https://dev-cpp.com/) para su desarrollo y compilación.
 
@@ -12,7 +12,7 @@ Cada carpeta de este repositorio tiene en su nombre el número de la semana en q
 
 ## English:
 
-**Welcome!** This repository contains the solutions I've made for all the problems given (in my semester) in the subject *"Object-oriented programming workshop"* at the UDO (*Universidad de Oriente*).
+**Welcome!** This repository contains the solutions I've made for all the problems given (in my semester) in the subject *Object-oriented programming workshop* at the UDO (*Universidad de Oriente*) in the career of *Computer Engineering*.
 
 This subject consists of one evaluation every week in which every student will need to solve a problem given by the professor online. The solutions need to be implemented in **C++** using either [Turbo C++](https://turbo-c.net/) or [Dev-C++](https://dev-cpp.com/) to develop and compile them.
 
